@@ -6,7 +6,11 @@ Uses real flight/satellite data to model motion paths and forecast future positi
 Python, Pandas, Matplotlib/Plotly, Scikit-learn
 
 ## 📁 Dataset
-Source: [Add dataset link here]  
+Source -> OpenSky Aircraft States Snapshot:
+Live aircraft positions and kinematics from OpenSky
+
+Link: https://www.kaggle.com/datasets/ibrahimqasimi/opensky/data?select=opensky_states_snapshot.csv
+
 Description: Tracks real-time motion data (e.g., latitude, longitude, altitude, timestamp)
 
 ## 🚀 Objectives
